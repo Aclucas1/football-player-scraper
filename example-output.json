@@ -1,0 +1,23 @@
+{
+  {
+    "ranking": 100,
+    "firstname": "Rodrigo",
+    "lastname": "Blankenship",
+    "position": "K",
+    "school": "Georgia"
+  },
+  {
+    "ranking": 69,
+    "firstname": "Tee",
+    "lastname": "Higgins",
+    "position": "WR",
+    "school": "Clemson"
+  },
+  {
+    "ranking": 51,
+    "firstname": "Dylan",
+    "lastname": "Moses",
+    "position": "LB",
+    "school": "Alabama"
+  }
+}
